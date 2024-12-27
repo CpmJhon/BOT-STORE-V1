@@ -1,11 +1,11 @@
 const { modul } = require('../module');
 const edit_info = `Di Bawah`// ga usah di otak atik
 
-const urlpepe = `https://b.top4top.io/p_2683roc9o5.jpg`// url/link logo
+const urlpepe = `https://telegra.ph/file/dce1d824b4258874f6db6.jpg`// url/link logo
 
-const namaowner = `♕𝐌𝐓𝐒 𝐒𝐓𝐎𝐑𝐄♕`// nama owner
-const noowner = `6289513452028`// nomor owner
+const namaowner = `♕ *CPM_JHON* ♕`// nama owner
+const noowner = `6285894955362`// nomor owner
 
-const packname = `ayam`// nama pack sticker
-const author = `kokok`// nama author stiker
+const packname = `CPM_JHON`// nama pack sticker
+const author = `STORE JHON`// nama author stiker
 module.exports = { edit_info,urlpepe,namaowner,noowner,packname,author }
